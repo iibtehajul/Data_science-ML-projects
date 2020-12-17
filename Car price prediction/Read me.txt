@@ -1,0 +1,32 @@
+Objective: Predicting car prices
+
+Tasks performed: 
+1. iported the data and checked for the basics insigths
+	a. Data types
+	b. Statistical Summery (Using 'describe()' method)
+2.Pre-processed the data: 
+	a. Identified and handles the missing data
+	b.Checked and corrected the data formats
+	c. Performed feature scaling
+	d. Normalizied necessary columns
+	e.Binned numerical data
+	f. Converted categorical data
+	g. saved the pre-processed data
+3. Performed "Exploratoty Data Analysis":
+	a. Checked the data types
+	b. Distiguished the data based on theri types
+	c. Performed visual data analysis
+	d. Performed statiscal data analysis
+	e. Identified highly correlated columns
+4. Developed and identified the best model:
+	a. Got the data ready/ Performed post processing
+	b. Splitted the data into training and test sets
+	c. Created pipelines: 
+		# for Linear regression for multiple variables
+		# for Polynomial regression
+	d. Performed model evaluation
+		# using error measures
+		# cross_val_score
+		#using visual techniques
+	e. Made a final decision:
+		# Identified the best model based on the evaluation scores
