@@ -1,5 +1,9 @@
 Objective: Predicting car prices
 
+Car Price Prediction using linear regression, IBM Data Science
+•	Performed the Exploratory Data Analysis to understand the relationships and produce the inferential statistical results for feature selection.
+•	Built a data pipeline, trained regression models and identfied the best regression model 
+
 Tasks performed: 
 1. iported the data and checked for the basics insigths
 	a. Data types
